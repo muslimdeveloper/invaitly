@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "invaitly",
+  "rewrites": [
+    {"source": "/:a*", "destination": "/"}
+  ]
+}
